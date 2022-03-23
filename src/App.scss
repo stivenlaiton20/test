@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html,body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+      sans-serif;
+    background-color: #282c34;
+    color: white;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+      monospace;
+  }
+  
+  
+  .main-layout {
+    display: flex;
+    
+  }
+  
+  nav {
+    background-color: #363a45;
+    padding-top: 60px;  
+    margin-right: 15px;
+    text-align: center;
+    width: 250px;
+    height: 140vh;
+  }
+  nav ul {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 0;
+  }
+  
+  nav li {
+    list-style: none;
+    margin-bottom: 10px;
+  }
+  
+  nav li a {
+    color: white;
+    font-size: 1.2rem;
+    text-decoration: none;
+  }
+  
+  .nav-active {
+    color: grey;
+    transition: all .3s ease-out;
+}
+.container {
+    padding-top: 50px;
+    max-width: 80%;
+    margin: 0 auto
+}
+.num__total {
+    max-width: 10%;
+    margin: 0 auto;
+    padding: 40px;
+    p {
+        font-size: 40px;
+    }
+}
+.tabla {
+    background-color: white ;
+    color: black;
+    thead, tbody {
+        border: #282c34;
+        th, td {
+           border: solid 2px;
+            padding: 8px 15px;
+           
+        }
+    }
+}
