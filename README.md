@@ -9,14 +9,14 @@ en esta prueba utlice las siguientes dependencias
 
 
 #para iniciar este proyecto localmente es necesario tenr instalado node con un version 14 o superior
-
-##en l carpeta raiz del proyecto utiliza:
 #
-#npm install --global yarn
+en l carpeta raiz del proyecto utiliza:
 #
-#yarn install
+npm install --global yarn
 #
-#despues de instalar las dependecias utilizar: yarn dev 
+yarn install
+#
+despues de instalar las dependecias utilizar: yarn dev 
 #
 #y luego entrar al http://localhost:3000/ para ver el proyecto 
 
