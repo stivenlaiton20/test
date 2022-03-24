@@ -8,12 +8,14 @@ en esta prueba utlice las siguientes dependencias
 -react-beautiful-dnd
 
 
-para iniciar este proyecto localmente es necesario tenr instalado node con un version 14 o superior 
+#para iniciar este proyecto localmente es necesario tenr instalado node con un version 14 o superior 
 en l carpeta raiz del proyecto utiliza:
-npm install --global yarn
-yarn install
+
+#npm install --global yarn
+
+#yarn install
 despues de instalar las dependecias utilizar
 yarn dev 
 y luego entrar al http://localhost:3000/ para ver el proyecto 
 
-por temas de falta de  tiempo no alcance completar  todos los temas mas fundamentales del proyecto tales como diseño, validacion y funcionalidad.
+#por temas de falta de  tiempo no alcance completar  todos los temas mas fundamentales del proyecto tales como diseño, validacion y funcionalidad.
