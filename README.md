@@ -9,7 +9,7 @@ en esta prueba utlice las siguientes dependencias
 
 
 #para iniciar este proyecto localmente es necesario tenr instalado node con un version 14 o superior 
-en l carpeta raiz del proyecto utiliza:
+#en l carpeta raiz del proyecto utiliza:
 #
 #npm install --global yarn
 #
