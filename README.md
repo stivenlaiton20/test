@@ -15,8 +15,7 @@ en l carpeta raiz del proyecto utiliza:
 #
 #yarn install
 #
-#despues de instalar las dependecias utilizar#
-#yarn dev 
+#despues de instalar las dependecias utilizar: yarn dev 
 #
 #y luego entrar al http://localhost:3000/ para ver el proyecto 
 
