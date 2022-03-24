@@ -19,4 +19,4 @@ en l carpeta raiz del proyecto utiliza:
 #
 #y luego entrar al http://localhost:3000/ para ver el proyecto 
 
-#por temas de falta de  tiempo no alcance completar  todos los temas mas fundamentales del proyecto tales como diseño, validacion y funcionalidad.
+#por temas de falta de  tiempo no alcance completar  al 100% todos los temas del proyecto tales como diseño, validacion y funcionalidad.
